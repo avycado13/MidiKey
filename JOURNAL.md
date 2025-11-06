@@ -16,3 +16,13 @@ I plan on adding a joystick for pitch bend and some sort of back lit key system 
 
 (For fraud detection, I started the project after I started working on this)  
 
+## 11/5/2025 - Final Schematic  
+
+I am using a gpio expander and added more buttons and a joystick for pitch bend!
+Also I added buttons for looping and/or drum beats.
+![Screenshot 2025-11-05 at 16.56.26](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc2NywicHVyIjoiYmxvYl9pZCJ9fQ==--3be91e77026bfaaad3a538690183a9134d15d99b/Screenshot%202025-11-05%20at%2016.56.26.png)
+ I think this is my final schematic.
+
+
+  
+
